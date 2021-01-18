@@ -8,19 +8,19 @@ background-image :linear-gradient(315deg,#49b2f8, #9921e8 ,#f72ce6);
     width: 100%;
     display: flex;
     flex-direction: row;
-    padding-top:0% ;  
+    padding-top:0% ;
   }
 
   .name-box1{
     width: 50%;
-    min-height:70vh;
+    height:100%;
     text-align: justify;
     padding:5% ;
     padding-top: 0%;
       }
 
   .name-box2{
-    min-height:70vh;
+    height:100%;
     margin: 5% 5%;
     width: 45%;
     border-radius: 10px;   
